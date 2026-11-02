@@ -32,6 +32,8 @@ next is Create a file name it .htaccess and add this to file by
 using nano .htaccess and put this code
   
   AddType application/x-httpd-php .png
+  
+  
 and save file and upload to webpage now we have tow files exploit.php.png and .htaccess
 
 
