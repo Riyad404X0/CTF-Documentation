@@ -7,6 +7,7 @@ A university's online registration portal asks students to upload their ID cards
 # First step : Discover the web page
 <img width="1599" height="778" alt="1" src="https://github.com/user-attachments/assets/07e5a3c2-79ff-4a89-b6a6-608dd3e7762b" />
 we can see we can just upload to webpage just 3 file type (JPG, PNG, or GIF)
+
 # What we should do:
 we need flag.txt or somthing like that inside we can get our flag 
 so we have to write php file and hide it like png file 
