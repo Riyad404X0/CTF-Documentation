@@ -31,7 +31,7 @@ The .htaccess file is short for hypertext access. It's used to control web serve
 next is Create a file name it .htaccess and add this to file by
 using nano .htaccess and put this code
   
-#AddType application/x-httpd-php .png
+  AddType application/x-httpd-php .png
 
 
 
