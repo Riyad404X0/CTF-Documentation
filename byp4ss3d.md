@@ -1,4 +1,4 @@
-# CTF-Documentation
+<img width="1599" height="783" alt="8" src="https://github.com/user-attachments/assets/cb36a719-c742-453c-999c-3f8228c90776" /># CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
 # Challenge Name : byp4ss3d
@@ -50,8 +50,11 @@ to read file content we use cat command
   cat /var/www/flag.txt
 
 and we can read flag.txt
-<img width="1598" height="776" alt="7" src="https://github.com/user-attachments/assets/0397c92a-e6c0-467b-ab92-9df5de33dd31" />
+<img width="1599" height="783" alt="8" src="https://github.com/user-attachments/assets/95135649-c845-4258-9ef7-0bce62ab8078" />
 we get our flag
+
+
+
 
 
 
