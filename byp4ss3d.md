@@ -36,6 +36,15 @@ using nano .htaccess and put this code
   
 and save file and upload to webpage now we have tow files exploit.php.png and .htaccess
 
+next we need to go to webpage and go to path /images/exploit.php.png and we can see we have php webshell on webpage 
+and now we could execute linux commands 
+flag is likely in a file .txt
+in execute box we do this command to see path for .txt files 
+find / -name "*.txt"
+this command is made to find files
+<img width="1597" height="778" alt="6" src="https://github.com/user-attachments/assets/f756d95b-7617-4971-8921-6542d49853f5" />
+
+
 
 
 
