@@ -20,6 +20,10 @@ you do
 nano exploit.php
 and will Write the PHP shell code as shown in the image
 and save it by ctrl + x 
+<img width="156" height="147" alt="2" src="https://github.com/user-attachments/assets/89449e69-20ba-488b-90e2-f485a41fe17a" />
+and to upload php file we need add File Extension  (JPG, PNG, or GIF)
+
+
 
 
 
