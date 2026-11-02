@@ -15,3 +15,7 @@ burp suite tool or Another way by curl but today we'r use burp
 # 2 : Discover a web page
 <img width="1597" height="775" alt="frist_lock" src="https://github.com/user-attachments/assets/fd53e289-2fb2-434f-8d1f-78ddf6862674" />
 you can see login page 
+so we have email address: ctf-player@cylabacademy.org
+and when we try random password we find this message here
+<img width="1596" height="779" alt="2_lock" src="https://github.com/user-attachments/assets/0dd6297d-43ba-4413-b2c1-ffea6bde973f" />
+
