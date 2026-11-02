@@ -15,6 +15,14 @@ and use this file to get webshell on website
 you can use this exploit
 <img width="753" height="317" alt="php" src="https://github.com/user-attachments/assets/c8bc7736-c088-465b-8763-55e41e5f6017" />
 
+# in terminal /linux
+you do
+nano exploit.php
+and will Write the PHP shell code as shown in the image
+and save it by ctrl + x 
+
+
+
 
 
 
