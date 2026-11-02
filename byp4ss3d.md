@@ -24,6 +24,10 @@ and save it by ctrl + x
 
 
 
+
+
+
+
 and to upload php file we need add File Extension  (JPG, PNG, or GIF)
 
 
