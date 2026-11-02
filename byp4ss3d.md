@@ -25,7 +25,7 @@ and to upload php file we need add File Extension  (JPG, PNG, or GIF)
 # 
 after you upload file you can see is Successfully uploaded
 <img width="1599" height="777" alt="3" src="https://github.com/user-attachments/assets/21541b2c-9e2d-4b84-b055-5a3cce6b0839" />
-after you upload file you can see is Successfully uploaded
+
 
 
 
