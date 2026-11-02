@@ -1,4 +1,4 @@
-<img width="1599" height="783" alt="8" src="https://github.com/user-attachments/assets/cb36a719-c742-453c-999c-3f8228c90776" /># CTF-Documentation
+# CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
 # Challenge Name : byp4ss3d
