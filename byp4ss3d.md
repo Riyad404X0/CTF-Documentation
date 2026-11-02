@@ -29,8 +29,9 @@ after you upload file you can see is Successfully uploaded
 now you can not execute file php as php file is PNG file ,we need execute php PNG file as php file by useing .htaccess
 The .htaccess file is short for hypertext access. It's used to control web server settings and is important for protecting your website from attacks that could completely destroy it, among other critical functions
 next is Create a file name it .htaccess and add this to file by
-useng nano .htaccess and put this code
-  AddType application/x-httpd-php .png
+using nano .htaccess and put this code
+  
+#AddType application/x-httpd-php .png
 
 
 
