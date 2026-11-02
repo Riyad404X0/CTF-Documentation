@@ -45,6 +45,9 @@ in execute box we do this command to see path for .txt files
 
 this command is made to find files
 <img width="1597" height="778" alt="6" src="https://github.com/user-attachments/assets/f756d95b-7617-4971-8921-6542d49853f5" />
+to read file content we use cat command
+
+  cat /var/www/flag.txt
 
 
 
