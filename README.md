@@ -7,3 +7,11 @@ The login system has been upgraded with a basic rate-limiting mechanism that loc
 . Can you try to log in?.
 
 Download the passwords list 
+
+# First step : Preparing the environment
+first Download requirements
+password list 
+burp suite tool or Another way by curl but today we'r use burp
+# 2 : Discover a web page
+<img width="1597" height="775" alt="frist_lock" src="https://github.com/user-attachments/assets/fd53e289-2fb2-434f-8d1f-78ddf6862674" />
+you can see login page 
