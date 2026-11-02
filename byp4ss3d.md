@@ -49,6 +49,10 @@ to read file content we use cat command
 
   cat /var/www/flag.txt
 
+![Uploading 7.png…]()
+
+
+
 
 
 
