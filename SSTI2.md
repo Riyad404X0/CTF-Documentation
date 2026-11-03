@@ -20,6 +20,11 @@ when we Exploiting this vulnerability by this code here:
 
 the web page replies with this:
 <img width="1599" height="770" alt="3" src="https://github.com/user-attachments/assets/392f3cbd-934c-487d-aa50-688091d19c15" />
+is probably filter block us from execute code 
+# Filter Bypass Strategy
+To bypass these restrictions in Jinja2, we use two techniques:
+1. Using filters instead of periods: Instead of writing object.attribute, we use Jinja2 filters such as object|attr("attribute").
+2. Using hexadecimal encoding for underscores: To prevent detection of blocked words like __globals__, we write the underscore (_) in its hexadecimal encoding, which is \x5f. Therefore, __globals__ becomes:
 
 
 
