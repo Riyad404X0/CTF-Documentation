@@ -11,4 +11,6 @@ a web security vulnerability that happens when a web application takes user-prov
 As we see There is an input box And when we write something, the same thing comes back to us
 so to do ssti vulnerability testing template engine <img width="575" height="347" alt="test" src="https://github.com/user-attachments/assets/21b70fd1-97e5-4746-af2d-b0b0570d932d" />
 
+as we write {{7*7}} any math just Simple calculation the webpage replies with this:
+<img width="1588" height="773" alt="2" src="https://github.com/user-attachments/assets/54ae928f-1bdd-48f5-93c0-846ddf66f603" />
 
