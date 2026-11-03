@@ -10,6 +10,7 @@ a web security vulnerability that happens when a web application takes user-prov
 <img width="1599" height="771" alt="1{" src="https://github.com/user-attachments/assets/bb393cc9-a239-4882-8a9a-552f400174c7" />
 As we see There is an input box And when we write something, the same thing comes back to us
 so to do ssti vulnerability testing template engine 
+#
 <img width="575" height="347" alt="test" src="https://github.com/user-attachments/assets/21b70fd1-97e5-4746-af2d-b0b0570d932d" />
 
 
