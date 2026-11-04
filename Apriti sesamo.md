@@ -38,5 +38,22 @@ after we do dcode we get this
       }
     ?>
 
+# step 2: Exploiting a PHP (Type Juggling/SHA-1) Vulnerability
+
+In the source code, the script checks if the sha1() function matches the username and password (e.g., sha1($username) === sha1($pwd))
+
+Vulnerability: In PHP, if you pass an array instead of plain text to the sha1() function, the function cannot process the array and will return null with a warning.
+
+When the username and password are passed as arrays (e.g., username[]=123&pwd[]=456 using a tool like Burp Suite or by modifying the request):
+
+The equation becomes: null === null
+
+The result is true, bypassing the password verification
+
+After bypassing the screen, the desired flag is displayed directly (e.g., reading the contents of a flag.txt file)
+<img width="1554" height="775" alt="5" src="https://github.com/user-attachments/assets/04d67fe5-ea3a-4e93-af37-ad861414964a" />
+<img width="1599" height="865" alt="4" src="https://github.com/user-attachments/assets/874ef9e6-3254-4547-8079-dbbc217bfbe5" />
+
+
 
 
