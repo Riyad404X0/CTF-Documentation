@@ -19,8 +19,9 @@ will be using Character Encoding ASCII
 go to https://www.ascii-code.com/ , and Replacing keywords thay stop us from useing it with their own encoder in table
 open(/flag.txt).read()
 
-    will be like this 
-open(chr(47)+"f"+"l"+"a"+"g"+chr(46)+"t"+"x"+"t").read()
+will be like this 
+        
+    open(chr(47)+"f"+"l"+"a"+"g"+chr(46)+"t"+"x"+"t").read()
 <img width="1598" height="778" alt="fanly" src="https://github.com/user-attachments/assets/2f13169d-3ef1-4f69-ad77-75ae0dc4e89f" />
 get our flag
 
