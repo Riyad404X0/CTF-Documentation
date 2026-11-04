@@ -51,8 +51,9 @@ The equation becomes: null === null
 The result is true, bypassing the password verification
 
 After bypassing the screen, the desired flag is displayed directly (e.g., reading the contents of a flag.txt file)
-<img width="1554" height="775" alt="5" src="https://github.com/user-attachments/assets/04d67fe5-ea3a-4e93-af37-ad861414964a" />
 <img width="1599" height="865" alt="4" src="https://github.com/user-attachments/assets/874ef9e6-3254-4547-8079-dbbc217bfbe5" />
+<img width="1554" height="775" alt="5" src="https://github.com/user-attachments/assets/04d67fe5-ea3a-4e93-af37-ad861414964a" />
+
 
 
 
