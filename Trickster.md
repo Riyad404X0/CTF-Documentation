@@ -38,6 +38,18 @@ to bypass filter we need add Magic Bytes to our file ,in our case we can add PNG
 
 and file must be has png and php file extension
 hack.png.php like this
+# Uploading & Execution
+after we upload payload we get this and file is uploding 
+<img width="1599" height="780" alt="6" src="https://github.com/user-attachments/assets/140d6875-e2cb-4a61-aaa9-bac1e10c8e5a" />
+and to get webshell we need to add file name to endpoint url in path /uploads/hack.png.php like that
+<img width="1598" height="779" alt="7" src="https://github.com/user-attachments/assets/9dc5d28f-ec15-4eb7-94ef-68ce14d04189" />
+and we need to serch flag as we see is in /var/www/htmlGBRDKM3FGA2TQ.txt
+and use cat to show us txt file 
+<img width="1596" height="783" alt="8" src="https://github.com/user-attachments/assets/92c28428-2384-40c0-9084-338a98668222" />
+get flag!
+
+
+
 
 
 
