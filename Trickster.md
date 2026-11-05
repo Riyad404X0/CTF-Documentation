@@ -1,4 +1,4 @@
-<img width="1599" height="781" alt="g" src="https://github.com/user-attachments/assets/7c087ed0-3c04-48a1-b77a-ad0321018ab4" /># CTF-Documentation
+# CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
 # Challenge Name : Trickster
