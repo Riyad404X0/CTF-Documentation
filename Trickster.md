@@ -36,6 +36,10 @@ to bypass filter we need add Magic Bytes to our file ,in our case we can add PNG
     </body>
     </html>
 
+and filee must be has png and php file extension
+
+hack.png.php like this
+
 
 
 
