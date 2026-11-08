@@ -15,8 +15,9 @@ when we see source code for webpage in function send_request
 // ^a.....y!?
 we get this and thay said we need to match this Regex ,like academy,already etc
 academy is the is large percentage the way to get flag
-<img width="1597" height="785" alt="4" src="https://github.com/user-attachments/assets/1d912c28-0858-4857-92ff-eb51e20d125c" />
+
 <img width="1599" height="783" alt="3" src="https://github.com/user-attachments/assets/ab143210-4c71-4800-976d-e8e945b21e0e" />
+<img width="1597" height="785" alt="4" src="https://github.com/user-attachments/assets/1d912c28-0858-4857-92ff-eb51e20d125c" />
 get flag
 
 
