@@ -15,6 +15,13 @@ and POST methed when we enter username and password the server response by flag 
      
                             YWNhZGVteXtwcm94aWVzX2Fs --> academy{proxies_al
 <img width="1598" height="862" alt="3" src="https://github.com/user-attachments/assets/8479cd15-a729-41ec-ad92-7821a4da1fb9" />
+and after we get into this url the server response in  setTimeout(function() the function is response by new id for url and is the same as before is base64 encode format and inspector is do dcode for it and we get the secend part flag
+
+                            bF90aGVfd2F5X2E1Yjg0YzY2fQ== --> l_the_way_a5b84c66}
+
+<img width="1599" height="865" alt="5" src="https://github.com/user-attachments/assets/faef7fe4-919f-4d29-a16a-ba97dfa9a95a" />
+
+get the flag! academy{proxies_al + l_the_way_a5b84c66}
 
 
 
