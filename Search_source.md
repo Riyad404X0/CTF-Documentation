@@ -19,5 +19,8 @@ and as we see showing all files
 <img width="1599" height="825" alt="2" src="https://github.com/user-attachments/assets/600e2b78-ca2b-439e-aae0-14d159543122" />
 the flag is it is likely  Comments it is like doing note in code page but it is not going to function like code instead it's To organize the code
 and every languge has oun Comments methed to do like in python is # and java script // 
+<img width="1600" height="865" alt="3" src="https://github.com/user-attachments/assets/283a206a-27c1-422d-89da-1aac268f8ccc" />
+and after Search we see flag is in /** banner_main academy{1nsp3ti0n_0f_w3bpag3s_0194e1e4} **/ in comments code for style.css
+get the flag!
 
 
