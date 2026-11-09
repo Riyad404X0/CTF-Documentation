@@ -14,6 +14,7 @@ and we need to open burp suite to see server response Before you enter password 
 and POST methed when we enter username and password the server response by flag in new URL path that server is giving id in end of path of the url /next-page/id=YWNhZGVteXtwcm94aWVzX2Fs is base64 encode and inspector is do dcode and we get first part flag 
      
                             YWNhZGVteXtwcm94aWVzX2Fs --> academy{proxies_al
+<img width="1598" height="862" alt="3" src="https://github.com/user-attachments/assets/8479cd15-a729-41ec-ad92-7821a4da1fb9" />
 
 
 
