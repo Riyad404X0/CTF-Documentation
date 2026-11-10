@@ -7,3 +7,9 @@ The flag is somewhere on this web application not necessarily on the website. Fi
 # Discover
 we can see is website for How to We Do Yogas
 <img width="1597" height="780" alt="1" src="https://github.com/user-attachments/assets/be62d306-ddf7-4c1f-86cb-4117ea6cddf9" />
+# find the flag
+open gobuster is tool for url endpoint enumeration is need for url and wordlist 
+[Uploading wordlist.txt…]()
+
+
+    gobuster dir -u http://xebec.cylabacademy.net:12800/ -w '/home/fox/FOX/wordlist.txt'
