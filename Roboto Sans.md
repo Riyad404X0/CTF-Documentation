@@ -11,6 +11,7 @@ we can see is website for How to We Do Yogas
 # find the flag
 open gobuster is tool for url endpoint enumeration is need for url and wordlist 
 [include](File:(https://github.com/user-attachments/files/34644517/wordlist.txt))
+
 and use this commend
 
     gobuster dir -u http://xebec.cylabacademy.net:12800/ -w '/home/fox/FOX/wordlist.txt'
