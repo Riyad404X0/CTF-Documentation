@@ -10,6 +10,8 @@ we can see is website for How to We Do Yogas
 # find the flag
 open gobuster is tool for url endpoint enumeration is need for url and wordlist 
 [Uploading wordlist.txt…]()
-
+and use this commend
 
     gobuster dir -u http://xebec.cylabacademy.net:12800/ -w '/home/fox/FOX/wordlist.txt'
+we get this 
+<img width="1600" height="457" alt="1h" src="https://github.com/user-attachments/assets/e85f30c7-0e2a-4618-8bf6-470e0a01eb99" />
