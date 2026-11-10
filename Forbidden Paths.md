@@ -15,3 +15,12 @@ the ctf description says files live in /var/www/html/ and the flag is at /flag.t
 
 # Local File Disclosure (LFD) 
 A Local File Disclosure (LFD) or Local File Inclusion (LFI) vulnerability occurs when a web application takes user-supplied input to load or read a file (such as via a parameter like page, file, or sample) without proper sanitization. This allows an attacker to use directory traversal sequences (such as ../) to escape the web root and read sensitive local files on the server (like /etc/passwd, source code, .env files, or CTF 
+# get flag
+/var/www/html/ it's will be
+
+../../../flag.txt
+
+<img width="1555" height="781" alt="2" src="https://github.com/user-attachments/assets/32c87452-ed25-40e2-8973-c96f37b3ffe0" />
+<img width="1558" height="777" alt="3" src="https://github.com/user-attachments/assets/446c99ce-4a01-4288-820a-46ce9754c88a" />
+get flag!
+
