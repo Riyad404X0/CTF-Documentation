@@ -1,3 +1,4 @@
+[wordlist.txt](https://github.com/user-attachments/files/34644678/wordlist.txt)
 # CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
