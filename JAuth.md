@@ -1,7 +1,7 @@
 # CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
-# Challenge Name : Forbidden Paths
+# Challenge Name : JAuth
 # Description 
 Most web application developers use third party components without testing their security. Some of the past affected companies are:
 
