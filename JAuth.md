@@ -19,6 +19,6 @@ and it's json web token as we see it's start by eyJ0 and to make sure ,just do d
 <img width="1598" height="262" alt="4" src="https://github.com/user-attachments/assets/a3cb2daf-1d47-4b68-a68e-d81c75e58a69" />
 and is 
 jwt vulnerability
-$${\color{lightblue}jwt vulnerability}$$
+$\color{#ff0000}\textsf{jwt vulnerability}$
 
 
