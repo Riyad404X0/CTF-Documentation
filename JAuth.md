@@ -18,7 +18,7 @@ and after login we can see is there nothing to see but we have cookies
 and it's json web token as we see it's start by eyJ0 and to make sure ,just do decode 
 <img width="1598" height="262" alt="4" src="https://github.com/user-attachments/assets/a3cb2daf-1d47-4b68-a68e-d81c75e58a69" />
 and is 
-jwt vulnerability
+
 
 $\color{#00ffff}\textsf{jwt vulnerability}$
 
