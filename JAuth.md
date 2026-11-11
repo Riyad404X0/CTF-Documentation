@@ -25,8 +25,15 @@ $\color{#00ffff}\textsf{jwt vulnerability}$
 # exploit
 we need tuen role from user to admin by Modifier for JWT 
 
+open developer tools
 open this website 
 
 https://www.jwt.io/
+after we go to this website will going to copy cookies value and paste it in jwt website and will going to change alg hash algorithms and role to admin to get this work and output is our payload 
+<img width="1599" height="769" alt="5" src="https://github.com/user-attachments/assets/c98eb70a-dced-4555-a44d-d7afbbce1ecc" />
+<img width="1599" height="647" alt="6" src="https://github.com/user-attachments/assets/adfe450e-b7b9-4679-ba69-a759001b46e6" />
+and after this copy payload and paste it in 
+
+
 
 
