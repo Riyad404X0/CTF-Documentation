@@ -35,8 +35,9 @@ after we go to this website will going to copy cookies value and paste it in jwt
 <img width="1599" height="647" alt="6" src="https://github.com/user-attachments/assets/adfe450e-b7b9-4679-ba69-a759001b46e6" />
 and after this copy payload and paste it in developer tools in value cookies
 and reload the page
-<img width="1599" height="784" alt="8" src="https://github.com/user-attachments/assets/d4ced3e7-45f1-4166-beb0-33473479eda8" />
 <img width="1599" height="826" alt="7" src="https://github.com/user-attachments/assets/e5d370d1-6676-4d60-9266-bf252d5ff763" />
+<img width="1599" height="784" alt="8" src="https://github.com/user-attachments/assets/d4ced3e7-45f1-4166-beb0-33473479eda8" />
+
 get flag!
 
 
