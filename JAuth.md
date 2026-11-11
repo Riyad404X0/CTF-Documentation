@@ -20,6 +20,6 @@ and it's json web token as we see it's start by eyJ0 and to make sure ,just do d
 and is 
 jwt vulnerability
 
-$\color{##00ffff}\textsf{jwt vulnerability}$
+$\color{#00ffff}\textsf{jwt vulnerability}$
 
 
