@@ -22,4 +22,11 @@ and is
 
 $\color{#00ffff}\textsf{jwt vulnerability}$
 
+# exploit
+we need tuen role from user to admin by Modifier for JWT 
+
+open this website 
+
+https://www.jwt.io/
+
 
