@@ -17,6 +17,9 @@ after scroll down we get this text but is likely encoder
 <img width="1599" height="819" alt="4" src="https://github.com/user-attachments/assets/ca5c1eb9-8e7a-4507-868a-9b8ce809940c" />
 but we need to decode this ,will goes to 
 https://gchq.github.io/CyberChef/
+and add magic and put encoder text 
+<img width="1599" height="771" alt="flag" src="https://github.com/user-attachments/assets/6e9612bb-cc34-4da7-853b-9775e4d14970" />
+get flag!
 
 
 
