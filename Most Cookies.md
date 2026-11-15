@@ -76,6 +76,9 @@ we can also use Python scripts to get the value of the secret key, then create a
     except BadSignature:
         pass
     print("no match"); sys.exit(2)
+after we use this paylad we need to add cookes for it and get the The secret key the random word
+<img width="1599" height="780" alt="1" src="https://github.com/user-attachments/assets/36e30005-fa5c-4a6a-9ce0-0a4860252397" />
+
 
 script uses the secret key to encode data into the Flask cookie
 
