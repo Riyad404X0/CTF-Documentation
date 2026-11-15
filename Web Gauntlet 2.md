@@ -18,4 +18,6 @@ adm'||'in
 and password we need to do true value 
 a'IS NOT 'b
 
+    username : adm'||'in
+    password : a'IS NOT 'b
 
