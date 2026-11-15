@@ -1,7 +1,7 @@
 # CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
-# Challenge Name : 3v@l
+# Challenge Name : Some Assembly Required 1
 # find the flag 
 <img width="1599" height="781" alt="1" src="https://github.com/user-attachments/assets/83ad357c-e52a-4de1-b0d9-36c5dbfe4d81" />
 as we see the website tell us to submit the flag but we don't have flag and waht we need is the take look at source page
