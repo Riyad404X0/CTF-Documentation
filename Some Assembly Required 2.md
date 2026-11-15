@@ -15,7 +15,8 @@ and after add this endpoint to our url ,is download file aD8SvhyVkb ,to read thi
 
 after scroll down we get this text but is likely encoder 
 <img width="1599" height="819" alt="4" src="https://github.com/user-attachments/assets/ca5c1eb9-8e7a-4507-868a-9b8ce809940c" />
-
+but we need to decode this ,will goes to 
+https://gchq.github.io/CyberChef/
 
 
 
