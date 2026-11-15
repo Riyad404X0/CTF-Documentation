@@ -21,3 +21,10 @@ a'IS NOT 'b
     username : adm'||'in
     password : a'IS NOT 'b
 
+and after we input payload we get this 
+<img width="1549" height="779" alt="4" src="https://github.com/user-attachments/assets/4793bb1f-2a45-4686-a32d-c4b1f417d4cb" />
+and to get flag we need to go end point filter.php
+<img width="1599" height="782" alt="3" src="https://github.com/user-attachments/assets/109d3395-7fb0-41f8-adf2-377ad475e90c" />
+get flag!
+
+
