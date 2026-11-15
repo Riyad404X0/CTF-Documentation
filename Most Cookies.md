@@ -116,6 +116,14 @@ script uses the secret key to encode data into the Flask cookie
     session_dict = {k: v}
     cookie = s.dumps(session_dict)
     print(cookie)
-                         
+
+
+after we use this payload we need to add secert key that we get from payload 1 and add "very_auth"="admin"
+<img width="1596" height="634" alt="2" src="https://github.com/user-attachments/assets/8cba4f48-3007-42f7-8bf5-9b6d83f34666" />
+and we get cookes then put it in website 
+<img width="1557" height="785" alt="3" src="https://github.com/user-attachments/assets/01cdffee-ffa3-4a9f-9918-2df38bd968e9" />
+get flag!
+
+
                  
                                    
