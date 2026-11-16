@@ -12,4 +12,12 @@ we see this website and thay tell us to upload two pdf file to get throw and aft
 so to pass this filter we need to have different file name and same md5 hash value ,we can get two file with same hash from this website 
 https://www.mscs.dal.ca/~selinger/md5collision/
 to do md5collision
+and this hash value is explain 
+<img width="1599" height="821" alt="3" src="https://github.com/user-attachments/assets/21b6b003-d6ad-4e83-a191-f8da642a2761" />
+upload files 
+<img width="1599" height="780" alt="4" src="https://github.com/user-attachments/assets/912af276-120c-4546-8245-cf6b6e0bdbc2" />
+<img width="1599" height="780" alt="5" src="https://github.com/user-attachments/assets/f3873786-8aaf-4b96-8ced-ce8bc04397f6" />
+get flag!
+
+
 
