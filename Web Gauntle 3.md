@@ -24,9 +24,11 @@ a'IS NOT 'b
     password : a'IS NOT 'b
 
 and after we input payload we get this 
-<img width="1549" height="779" alt="4" src="https://github.com/user-attachments/assets/4793bb1f-2a45-4686-a32d-c4b1f417d4cb" />
+<img width="1599" height="781" alt="2" src="https://github.com/user-attachments/assets/23701ff3-cc0c-49d9-ade9-a1b7a0f2d7b3" />
+
 and to get flag we need to go end point filter.php
-<img width="1599" height="782" alt="3" src="https://github.com/user-attachments/assets/109d3395-7fb0-41f8-adf2-377ad475e90c" />
+<img width="1599" height="780" alt="3" src="https://github.com/user-attachments/assets/7c4a799e-face-4ad7-b31d-13f1c3361211" />
+
 get flag!
 
 
