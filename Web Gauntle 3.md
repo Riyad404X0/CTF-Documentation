@@ -10,7 +10,8 @@ we see login page
 <img width="1599" height="776" alt="1" src="https://github.com/user-attachments/assets/6d396da8-2af1-4b2a-a54d-bd8dd5a7ee56" />
 
 and hint 5 says sql lite must be injection but filter is block us from injection
-<img width="1597" height="780" alt="1" src="https://github.com/user-attachments/assets/02b7b38d-df79-4d61-bcce-16c8087cc0c7" />
+<img width="1599" height="781" alt="fiilter" src="https://github.com/user-attachments/assets/8564c0c2-0b60-497e-a9de-5a8ac1445de7" />
+
 Filters: or and true false union like = > < ; -- /* */ admin 
 # exploit
 to baypass filter let's craft payload
