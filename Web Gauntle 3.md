@@ -1,7 +1,7 @@
 # CTF-Documentation
 # CTF Name : pico ctf
 # Category : web exploitation
-# Challenge Name : Web Gauntlet 2
+# Challenge Name : Web Gauntlet 3
 # Description 
 This website looks familiar...
 
