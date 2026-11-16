@@ -3,8 +3,7 @@
 # Category : web exploitation
 # Challenge Name : Web Gauntlet 3
 # Description 
-This website looks familiar...
-
+Last time, I promise! Only 25 characters this time. Log in as admin
 # Discover
 we see login page 
 <img width="1599" height="776" alt="1" src="https://github.com/user-attachments/assets/6d396da8-2af1-4b2a-a54d-bd8dd5a7ee56" />
