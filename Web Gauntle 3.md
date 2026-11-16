@@ -7,7 +7,8 @@ This website looks familiar...
 
 # Discover
 we see login page 
-<img width="1599" height="777" alt="1login" src="https://github.com/user-attachments/assets/dc4fbda5-db01-4d95-b76b-919018d05d45" />
+<img width="1599" height="776" alt="1" src="https://github.com/user-attachments/assets/6d396da8-2af1-4b2a-a54d-bd8dd5a7ee56" />
+
 and hint 5 says sql lite must be injection but filter is block us from injection
 <img width="1597" height="780" alt="1" src="https://github.com/user-attachments/assets/02b7b38d-df79-4d61-bcce-16c8087cc0c7" />
 Filters: or and true false union like = > < ; -- /* */ admin 
