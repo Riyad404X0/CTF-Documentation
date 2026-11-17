@@ -15,10 +15,15 @@ and when we see on request dubug is set to 0 that means taht value is 0 false an
 and server is response
 
 password: &#039;OR 1=1 --
+
 SQL query: SELECT * FROM admin where password = &#039;&#039;BE 1=1 --&#039;
 and when we see hint:Seems like the password is encrypted
 so the server is encode to our input like base64 or ROT13
 let's try ROT13 
 <img width="1599" height="776" alt="4" src="https://github.com/user-attachments/assets/76668127-6cc5-4c72-b51b-2808f449dabd" />
+and OR switch into be 
+
+<img width="1599" height="865" alt="5" src="https://github.com/user-attachments/assets/dfaabd65-4740-4fcb-b917-a7bc91a21da0" />
+get flag!
 
 
