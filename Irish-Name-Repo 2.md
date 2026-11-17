@@ -15,7 +15,8 @@ and this payload over her
      username : admin' --
      password : anything
 
-<img width="1593" height="781" alt="3" src="https://github.com/user-attachments/assets/05cc7eb7-e612-4633-b9ad-cd6819346aa6" />
+<img width="1599" height="781" alt="1g" src="https://github.com/user-attachments/assets/7ba92053-b5c1-49c5-98f9-ee60ee046761" />
+
 get flag!
 
 
